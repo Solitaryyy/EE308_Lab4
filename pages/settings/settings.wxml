@@ -1,0 +1,7 @@
+<!--pages/settings/settings.wxml-->
+<view>
+    <image class="bg" src="../image/背景.png"></image>
+    <image class="title" src="../image/设置.png"></image>
+    <image class="wait"src="../image/敬请期待.png"></image>
+</view>
+

@@ -1,0 +1,23 @@
+/* pages/settings/settings.wxss */
+.bg {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-size: 100% 100%;
+    z-index: -1;
+}
+.title {
+    width: 540rpx;
+    height: 180rpx;
+    position: absolute;
+    left: 120rpx;
+    z-index: 1;
+}
+.wait {
+    width: 540rpx;
+    height: 320rpx;
+    position: absolute;
+    left: 120rpx;
+    top:500rpx;
+    z-index: 1;
+}
